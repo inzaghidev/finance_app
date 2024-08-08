@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "128548308672",
+    "project_id": "btack-ec70f",
+    "storage_bucket": "btack-ec70f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128548308672:android:1f37f63e795ab83e99cf25",
+        "android_client_info": {
+          "package_name": "com.example.finance_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAN8KOCjk5kTUVEoyqyDKoQubNIHo_dlBg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
